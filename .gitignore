@@ -53,3 +53,5 @@ dkms.conf
 
 # Personal files in vscode
 .vscode/settings.json
+main
+snake
