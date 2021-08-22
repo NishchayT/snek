@@ -241,3 +241,6 @@ Constants can be categorized into 2 types, which are:
 > a=12
 > p=6422036
 > ```
+
+
+### Notes are available [here](https://www.javatpoint.com/variables-in-c)
