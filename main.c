@@ -19,3 +19,9 @@ int main()
     return 0;
 }
 
+char *padString(char *str, int len)
+{
+    size_t stringLength = sizeof(str)/sizeof(str[0]);
+
+    printf("Got string \"%s\" with length %d", str, stringLength);
+}
