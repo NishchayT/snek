@@ -16,6 +16,7 @@
 | Format Specifier       | Type                          |
 | ---------------------- | ----------------------------- |
 | `%c`                   | Character                     |
+| `%s`                   | String                        |
 | `%d`                   | Signed integer                |
 | `%e` or `%E`           | Scientific notation of floats |
 | `%f`                   | Float values                  |
@@ -31,7 +32,6 @@
 | `%llu`                 | Unsigned long long            |
 | `%o`                   | Octal representation          |
 | `%p`                   | Pointer                       |
-| `%s`                   | String                        |
 | `%u`                   | Unsigned int                  |
 | `%x` or `%X`           | Hexadecimal representation    |
 | `%n`                   | Prints nothing                |
